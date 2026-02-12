@@ -10,7 +10,6 @@
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3.10%2B-3776AB%3Fstyle%3Dflat%26logo%3Dpython%26logoColor%3Dwhite" alt="Python">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Streamlit-1.30%2B-FF4B4B%3Fstyle%3Dflat%26logo%3Dstreamlit%26logoColor%3Dwhite" alt="Streamlit">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Machine%2520Learning-Random%2520Forest-F7931E%3Fstyle%3Dflat%26logo%3Dscikit-learn%26logoColor%3Dwhite" alt="ML">
-<img src="https://img.shields.io/badge/license-MIT-green" alt="License">
 </p>
 
 </div>
