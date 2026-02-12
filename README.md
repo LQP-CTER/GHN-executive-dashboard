@@ -8,7 +8,7 @@ The GHN Executive Dashboard is an interactive web application designed specifica
 
 Unlike traditional static reports, this system not only provides a holistic view of operational performance (Descriptive Analytics) but also integrates Machine Learning models to forecast employee turnover risks (Predictive Analytics), thereby enabling the business to make timely interventions.
 
-🔗 Direct Access Link: [[Insert your Streamlit Cloud link here](https://ghn-executive-dashboard.streamlit.app/)]
+🔗 Direct Access Link: [[GHN-executive-dashboard.streamlit.app](https://ghn-executive-dashboard.streamlit.app/)]
 
 Key Features
 
