@@ -6,9 +6,6 @@
 
 <h3>IBCS Standard · Operations Insights · Flight Risk Radar · Machine Learning</h3>
 
-
-
-
 <p>
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3.10%2B-3776AB%3Fstyle%3Dflat%26logo%3Dpython%26logoColor%3Dwhite" alt="Python">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Streamlit-1.30%2B-FF4B4B%3Fstyle%3Dflat%26logo%3Dstreamlit%26logoColor%3Dwhite" alt="Streamlit">
