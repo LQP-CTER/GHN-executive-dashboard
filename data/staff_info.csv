@@ -1,0 +1,321 @@
+Staff_ID,Full_Name,Department,Role,Warehouse_ID,Join_Date,Status
+S0001,Employee S0001,HR,Warehouse Staff,WH01,2022-10-26,Inactive
+S0002,Employee S0002,Operations,Warehouse Staff,WH05,2024-01-03,Inactive
+S0003,Employee S0003,HR,Shipper,WH01,2023-11-06,Active
+S0004,Employee S0004,HR,Shipper,WH05,2021-05-24,Active
+S0005,Employee S0005,Operations,Shipper,WH05,2024-03-04,Active
+S0006,Employee S0006,Tech,Shipper,WH02,2024-03-27,Inactive
+S0007,Employee S0007,Finance,Warehouse Staff,WH02,2021-09-30,Active
+S0008,Employee S0008,Finance,Shipper,WH01,2024-03-15,Active
+S0009,Employee S0009,HR,Warehouse Staff,WH01,2024-08-01,Active
+S0010,Employee S0010,Operations,Shipper,WH04,2021-05-09,Active
+S0011,Employee S0011,Finance,Warehouse Staff,WH05,2023-05-26,Active
+S0012,Employee S0012,Finance,Shipper,WH02,2023-01-11,Active
+S0013,Employee S0013,Operations,Warehouse Staff,WH05,2022-05-15,Active
+S0014,Employee S0014,Tech,Warehouse Staff,WH05,2022-12-05,Active
+S0015,Employee S0015,Tech,Shipper,WH03,2021-08-30,Inactive
+S0016,Employee S0016,Tech,Shipper,WH01,2023-09-29,Active
+S0017,Employee S0017,Finance,Warehouse Staff,WH03,2024-03-19,Active
+S0018,Employee S0018,Tech,Shipper,WH01,2024-04-02,Active
+S0019,Employee S0019,Operations,Shipper,WH03,2023-08-29,Active
+S0020,Employee S0020,Tech,Warehouse Staff,WH04,2024-10-27,Active
+S0021,Employee S0021,Operations,Warehouse Staff,WH03,2022-12-12,Inactive
+S0022,Employee S0022,Tech,Shipper,WH02,2021-08-28,Active
+S0023,Employee S0023,HR,Warehouse Staff,WH04,2021-09-22,Active
+S0024,Employee S0024,Operations,Shipper,WH04,2023-10-14,Active
+S0025,Employee S0025,HR,Warehouse Staff,WH05,2022-07-24,Active
+S0026,Employee S0026,Finance,Warehouse Staff,WH02,2023-05-01,Inactive
+S0027,Employee S0027,HR,Shipper,WH02,2021-12-27,Inactive
+S0028,Employee S0028,HR,Warehouse Staff,WH03,2024-04-21,Inactive
+S0029,Employee S0029,Finance,Warehouse Staff,WH02,2023-05-09,Active
+S0030,Employee S0030,Operations,Warehouse Staff,WH05,2023-11-22,Active
+S0031,Employee S0031,Tech,Shipper,WH04,2023-03-29,Active
+S0032,Employee S0032,HR,Shipper,WH02,2021-05-08,Active
+S0033,Employee S0033,Finance,Shipper,WH01,2021-08-14,Inactive
+S0034,Employee S0034,Operations,Warehouse Staff,WH05,2021-11-06,Inactive
+S0035,Employee S0035,Tech,Shipper,WH03,2022-03-02,Active
+S0036,Employee S0036,Finance,Warehouse Staff,WH01,2024-05-18,Inactive
+S0037,Employee S0037,Tech,Warehouse Staff,WH04,2023-09-27,Active
+S0038,Employee S0038,Operations,Warehouse Staff,WH03,2021-10-23,Active
+S0039,Employee S0039,HR,Shipper,WH02,2024-11-18,Active
+S0040,Employee S0040,Finance,Shipper,WH05,2023-12-18,Active
+S0041,Employee S0041,Finance,Shipper,WH03,2023-12-18,Active
+S0042,Employee S0042,Finance,Shipper,WH05,2021-12-09,Active
+S0043,Employee S0043,Finance,Shipper,WH05,2023-10-27,Active
+S0044,Employee S0044,HR,Warehouse Staff,WH02,2022-02-04,Active
+S0045,Employee S0045,Finance,Shipper,WH01,2023-10-07,Active
+S0046,Employee S0046,Finance,Shipper,WH05,2023-08-26,Active
+S0047,Employee S0047,Finance,Warehouse Staff,WH01,2023-07-05,Active
+S0048,Employee S0048,Tech,Shipper,WH03,2022-04-10,Active
+S0049,Employee S0049,Operations,Warehouse Staff,WH03,2024-07-02,Active
+S0050,Employee S0050,Operations,Warehouse Staff,WH02,2021-06-23,Active
+S0051,Employee S0051,Tech,Warehouse Staff,WH01,2022-01-01,Active
+S0052,Employee S0052,Tech,Warehouse Staff,WH04,2025-01-18,Active
+S0053,Employee S0053,HR,Shipper,WH02,2021-06-23,Inactive
+S0054,Employee S0054,Tech,Shipper,WH05,2024-04-24,Active
+S0055,Employee S0055,Finance,Shipper,WH05,2023-08-30,Active
+S0056,Employee S0056,Operations,Shipper,WH05,2021-02-13,Active
+S0057,Employee S0057,Tech,Shipper,WH02,2021-10-13,Inactive
+S0058,Employee S0058,Finance,Shipper,WH05,2022-03-12,Active
+S0059,Employee S0059,Tech,Shipper,WH01,2024-01-20,Active
+S0060,Employee S0060,Tech,Warehouse Staff,WH05,2022-12-26,Inactive
+S0061,Employee S0061,Operations,Warehouse Staff,WH02,2021-11-07,Active
+S0062,Employee S0062,HR,Shipper,WH04,2021-11-03,Active
+S0063,Employee S0063,Operations,Warehouse Staff,WH05,2021-09-04,Active
+S0064,Employee S0064,Operations,Shipper,WH02,2023-09-16,Active
+S0065,Employee S0065,Operations,Warehouse Staff,WH05,2021-03-28,Inactive
+S0066,Employee S0066,Tech,Warehouse Staff,WH05,2021-05-10,Active
+S0067,Employee S0067,HR,Warehouse Staff,WH04,2024-05-26,Active
+S0068,Employee S0068,HR,Warehouse Staff,WH05,2023-09-07,Active
+S0069,Employee S0069,Tech,Shipper,WH04,2022-02-19,Inactive
+S0070,Employee S0070,Finance,Shipper,WH02,2023-06-25,Active
+S0071,Employee S0071,Finance,Shipper,WH02,2022-03-12,Active
+S0072,Employee S0072,Finance,Shipper,WH03,2024-08-10,Active
+S0073,Employee S0073,HR,Shipper,WH04,2023-08-16,Active
+S0074,Employee S0074,HR,Shipper,WH04,2021-11-30,Active
+S0075,Employee S0075,Finance,Warehouse Staff,WH02,2023-04-08,Active
+S0076,Employee S0076,Finance,Shipper,WH03,2021-07-08,Active
+S0077,Employee S0077,Operations,Warehouse Staff,WH03,2023-06-22,Active
+S0078,Employee S0078,Operations,Shipper,WH02,2022-08-29,Active
+S0079,Employee S0079,Operations,Warehouse Staff,WH03,2021-08-03,Inactive
+S0080,Employee S0080,Finance,Shipper,WH04,2022-01-07,Active
+S0081,Employee S0081,Finance,Warehouse Staff,WH02,2024-10-16,Active
+S0082,Employee S0082,Tech,Warehouse Staff,WH01,2023-11-21,Active
+S0083,Employee S0083,HR,Warehouse Staff,WH01,2024-11-10,Active
+S0084,Employee S0084,Operations,Warehouse Staff,WH01,2021-02-04,Active
+S0085,Employee S0085,Operations,Warehouse Staff,WH01,2022-04-01,Active
+S0086,Employee S0086,Tech,Warehouse Staff,WH05,2022-11-26,Inactive
+S0087,Employee S0087,HR,Shipper,WH02,2023-12-16,Active
+S0088,Employee S0088,HR,Warehouse Staff,WH03,2022-01-06,Active
+S0089,Employee S0089,Finance,Warehouse Staff,WH05,2022-02-26,Active
+S0090,Employee S0090,Finance,Shipper,WH03,2022-07-09,Inactive
+S0091,Employee S0091,HR,Warehouse Staff,WH02,2021-02-07,Active
+S0092,Employee S0092,Tech,Warehouse Staff,WH05,2021-08-06,Active
+S0093,Employee S0093,Finance,Shipper,WH02,2023-03-17,Active
+S0094,Employee S0094,HR,Warehouse Staff,WH03,2024-12-18,Active
+S0095,Employee S0095,Operations,Shipper,WH03,2021-09-23,Active
+S0096,Employee S0096,Operations,Warehouse Staff,WH05,2021-04-24,Active
+S0097,Employee S0097,HR,Warehouse Staff,WH01,2022-08-01,Active
+S0098,Employee S0098,Finance,Warehouse Staff,WH01,2021-11-19,Active
+S0099,Employee S0099,Finance,Shipper,WH01,2022-11-05,Active
+S0100,Employee S0100,HR,Warehouse Staff,WH02,2022-09-26,Inactive
+S0101,Employee S0101,Operations,Warehouse Staff,WH03,2023-02-21,Active
+S0102,Employee S0102,HR,Shipper,WH01,2022-02-16,Active
+S0103,Employee S0103,HR,Warehouse Staff,WH05,2021-07-03,Inactive
+S0104,Employee S0104,Finance,Warehouse Staff,WH02,2021-02-16,Inactive
+S0105,Employee S0105,HR,Warehouse Staff,WH03,2023-12-20,Active
+S0106,Employee S0106,HR,Warehouse Staff,WH05,2023-10-10,Active
+S0107,Employee S0107,Tech,Shipper,WH05,2021-03-31,Active
+S0108,Employee S0108,Operations,Shipper,WH01,2024-03-10,Inactive
+S0109,Employee S0109,Finance,Shipper,WH04,2021-09-30,Active
+S0110,Employee S0110,Operations,Shipper,WH05,2024-02-18,Active
+S0111,Employee S0111,Finance,Shipper,WH04,2023-09-30,Active
+S0112,Employee S0112,Operations,Shipper,WH04,2023-10-28,Active
+S0113,Employee S0113,Finance,Shipper,WH02,2021-06-02,Active
+S0114,Employee S0114,Tech,Warehouse Staff,WH04,2024-08-24,Inactive
+S0115,Employee S0115,Finance,Shipper,WH05,2024-11-01,Active
+S0116,Employee S0116,Operations,Shipper,WH03,2022-02-11,Active
+S0117,Employee S0117,Finance,Shipper,WH01,2024-11-20,Active
+S0118,Employee S0118,Finance,Shipper,WH02,2023-09-22,Active
+S0119,Employee S0119,Finance,Warehouse Staff,WH04,2022-08-19,Active
+S0120,Employee S0120,HR,Warehouse Staff,WH01,2021-08-31,Active
+S0121,Employee S0121,Finance,Warehouse Staff,WH01,2021-02-05,Active
+S0122,Employee S0122,Finance,Warehouse Staff,WH02,2023-07-10,Active
+S0123,Employee S0123,Operations,Shipper,WH02,2022-03-08,Active
+S0124,Employee S0124,Finance,Shipper,WH05,2022-06-21,Active
+S0125,Employee S0125,Finance,Shipper,WH03,2023-11-08,Active
+S0126,Employee S0126,Tech,Shipper,WH02,2023-09-23,Inactive
+S0127,Employee S0127,Tech,Warehouse Staff,WH03,2023-10-04,Active
+S0128,Employee S0128,Finance,Warehouse Staff,WH03,2023-05-03,Inactive
+S0129,Employee S0129,Operations,Warehouse Staff,WH03,2022-11-10,Active
+S0130,Employee S0130,HR,Shipper,WH03,2021-09-03,Active
+S0131,Employee S0131,Tech,Warehouse Staff,WH05,2021-05-14,Inactive
+S0132,Employee S0132,Finance,Shipper,WH03,2023-05-27,Inactive
+S0133,Employee S0133,Finance,Shipper,WH02,2024-09-17,Active
+S0134,Employee S0134,Finance,Shipper,WH03,2023-06-13,Active
+S0135,Employee S0135,Operations,Warehouse Staff,WH05,2023-05-27,Active
+S0136,Employee S0136,Operations,Shipper,WH04,2025-01-13,Active
+S0137,Employee S0137,Finance,Warehouse Staff,WH01,2021-10-11,Active
+S0138,Employee S0138,HR,Shipper,WH04,2024-02-01,Active
+S0139,Employee S0139,Finance,Warehouse Staff,WH03,2022-08-01,Active
+S0140,Employee S0140,Finance,Warehouse Staff,WH05,2022-05-04,Active
+S0141,Employee S0141,HR,Shipper,WH01,2021-09-03,Active
+S0142,Employee S0142,HR,Warehouse Staff,WH03,2023-10-16,Active
+S0143,Employee S0143,Tech,Shipper,WH05,2023-07-11,Active
+S0144,Employee S0144,HR,Warehouse Staff,WH05,2021-07-05,Inactive
+S0145,Employee S0145,Finance,Warehouse Staff,WH05,2022-05-05,Active
+S0146,Employee S0146,Tech,Warehouse Staff,WH04,2021-02-11,Active
+S0147,Employee S0147,Tech,Warehouse Staff,WH03,2022-03-07,Active
+S0148,Employee S0148,Finance,Warehouse Staff,WH02,2023-10-18,Active
+S0149,Employee S0149,HR,Shipper,WH03,2023-12-20,Active
+S0150,Employee S0150,Tech,Warehouse Staff,WH04,2023-02-27,Active
+S0151,Employee S0151,HR,Shipper,WH04,2021-02-14,Active
+S0152,Employee S0152,Tech,Shipper,WH01,2023-08-28,Active
+S0153,Employee S0153,Tech,Warehouse Staff,WH02,2023-12-18,Active
+S0154,Employee S0154,HR,Shipper,WH05,2022-04-04,Active
+S0155,Employee S0155,Tech,Shipper,WH05,2021-08-12,Active
+S0156,Employee S0156,HR,Shipper,WH05,2021-01-03,Active
+S0157,Employee S0157,Finance,Shipper,WH03,2024-08-14,Active
+S0158,Employee S0158,Operations,Shipper,WH01,2023-06-15,Active
+S0159,Employee S0159,HR,Warehouse Staff,WH03,2024-04-08,Active
+S0160,Employee S0160,Operations,Shipper,WH05,2024-05-15,Active
+S0161,Employee S0161,Finance,Warehouse Staff,WH02,2023-08-02,Active
+S0162,Employee S0162,HR,Shipper,WH04,2022-04-26,Active
+S0163,Employee S0163,Operations,Shipper,WH02,2022-09-22,Active
+S0164,Employee S0164,Tech,Shipper,WH03,2024-10-13,Active
+S0165,Employee S0165,Finance,Shipper,WH04,2023-05-20,Inactive
+S0166,Employee S0166,Tech,Warehouse Staff,WH04,2022-11-24,Active
+S0167,Employee S0167,Operations,Shipper,WH04,2022-08-22,Active
+S0168,Employee S0168,HR,Shipper,WH04,2022-10-01,Active
+S0169,Employee S0169,Operations,Warehouse Staff,WH05,2022-08-28,Active
+S0170,Employee S0170,Tech,Warehouse Staff,WH01,2022-04-03,Active
+S0171,Employee S0171,Tech,Shipper,WH02,2021-10-27,Inactive
+S0172,Employee S0172,HR,Warehouse Staff,WH01,2024-05-05,Active
+S0173,Employee S0173,Tech,Warehouse Staff,WH03,2022-01-13,Active
+S0174,Employee S0174,HR,Warehouse Staff,WH02,2021-06-12,Active
+S0175,Employee S0175,Tech,Shipper,WH03,2023-12-11,Active
+S0176,Employee S0176,Finance,Warehouse Staff,WH04,2023-02-15,Inactive
+S0177,Employee S0177,Operations,Warehouse Staff,WH01,2021-01-06,Active
+S0178,Employee S0178,HR,Warehouse Staff,WH03,2021-09-11,Active
+S0179,Employee S0179,Tech,Shipper,WH01,2022-09-25,Active
+S0180,Employee S0180,Finance,Warehouse Staff,WH02,2022-02-05,Active
+S0181,Employee S0181,Operations,Warehouse Staff,WH02,2023-08-30,Active
+S0182,Employee S0182,Operations,Warehouse Staff,WH01,2023-04-09,Active
+S0183,Employee S0183,Finance,Shipper,WH01,2021-05-07,Active
+S0184,Employee S0184,Finance,Warehouse Staff,WH03,2022-11-26,Active
+S0185,Employee S0185,Operations,Warehouse Staff,WH03,2024-06-17,Active
+S0186,Employee S0186,Operations,Shipper,WH01,2022-09-02,Active
+S0187,Employee S0187,Tech,Warehouse Staff,WH04,2021-08-08,Active
+S0188,Employee S0188,Tech,Shipper,WH04,2023-05-31,Active
+S0189,Employee S0189,HR,Shipper,WH03,2022-09-14,Active
+S0190,Employee S0190,Finance,Shipper,WH05,2023-08-02,Active
+S0191,Employee S0191,HR,Warehouse Staff,WH01,2021-11-24,Active
+S0192,Employee S0192,Finance,Shipper,WH04,2023-09-14,Active
+S0193,Employee S0193,Finance,Shipper,WH02,2021-05-28,Inactive
+S0194,Employee S0194,Tech,Shipper,WH02,2023-10-18,Inactive
+S0195,Employee S0195,HR,Shipper,WH03,2023-08-02,Active
+S0196,Employee S0196,Finance,Warehouse Staff,WH03,2024-03-06,Active
+S0197,Employee S0197,Tech,Shipper,WH02,2022-02-12,Active
+S0198,Employee S0198,Finance,Shipper,WH03,2021-11-11,Inactive
+S0199,Employee S0199,HR,Shipper,WH01,2022-05-31,Active
+S0200,Employee S0200,Operations,Shipper,WH04,2021-03-17,Active
+S0201,Employee S0201,Tech,Warehouse Staff,WH01,2022-04-19,Active
+S0202,Employee S0202,Operations,Shipper,WH02,2022-04-22,Active
+S0203,Employee S0203,HR,Shipper,WH03,2024-04-09,Active
+S0204,Employee S0204,Tech,Warehouse Staff,WH01,2021-12-31,Inactive
+S0205,Employee S0205,Finance,Shipper,WH01,2024-05-05,Active
+S0206,Employee S0206,Operations,Shipper,WH03,2021-10-17,Inactive
+S0207,Employee S0207,HR,Shipper,WH03,2025-02-08,Active
+S0208,Employee S0208,HR,Warehouse Staff,WH01,2023-02-01,Active
+S0209,Employee S0209,Tech,Shipper,WH04,2023-10-13,Inactive
+S0210,Employee S0210,HR,Shipper,WH02,2023-03-21,Active
+S0211,Employee S0211,Tech,Warehouse Staff,WH03,2022-07-10,Active
+S0212,Employee S0212,Finance,Warehouse Staff,WH04,2021-04-16,Active
+S0213,Employee S0213,HR,Warehouse Staff,WH04,2023-01-16,Active
+S0214,Employee S0214,Tech,Shipper,WH04,2021-01-13,Inactive
+S0215,Employee S0215,Tech,Warehouse Staff,WH04,2021-07-05,Active
+S0216,Employee S0216,Operations,Shipper,WH05,2021-09-24,Inactive
+S0217,Employee S0217,Operations,Warehouse Staff,WH05,2023-03-24,Inactive
+S0218,Employee S0218,Finance,Shipper,WH05,2022-12-14,Inactive
+S0219,Employee S0219,Operations,Warehouse Staff,WH04,2021-05-18,Active
+S0220,Employee S0220,Finance,Shipper,WH01,2022-02-09,Active
+S0221,Employee S0221,Finance,Shipper,WH05,2023-09-16,Active
+S0222,Employee S0222,Operations,Shipper,WH02,2023-03-06,Active
+S0223,Employee S0223,HR,Warehouse Staff,WH02,2024-06-12,Active
+S0224,Employee S0224,Tech,Shipper,WH04,2021-03-27,Active
+S0225,Employee S0225,HR,Shipper,WH01,2021-11-03,Active
+S0226,Employee S0226,Operations,Warehouse Staff,WH01,2024-10-08,Active
+S0227,Employee S0227,Finance,Warehouse Staff,WH03,2023-07-23,Active
+S0228,Employee S0228,Tech,Warehouse Staff,WH04,2023-05-22,Active
+S0229,Employee S0229,Operations,Shipper,WH05,2022-01-02,Active
+S0230,Employee S0230,HR,Warehouse Staff,WH05,2023-08-11,Active
+S0231,Employee S0231,HR,Warehouse Staff,WH04,2023-07-28,Inactive
+S0232,Employee S0232,Finance,Warehouse Staff,WH03,2021-09-21,Inactive
+S0233,Employee S0233,Operations,Shipper,WH02,2023-06-25,Inactive
+S0234,Employee S0234,Operations,Shipper,WH05,2022-10-05,Active
+S0235,Employee S0235,HR,Shipper,WH01,2024-08-29,Active
+S0236,Employee S0236,Operations,Shipper,WH02,2025-02-08,Active
+S0237,Employee S0237,Finance,Shipper,WH02,2023-10-05,Inactive
+S0238,Employee S0238,Finance,Shipper,WH03,2022-12-20,Active
+S0239,Employee S0239,Tech,Shipper,WH03,2022-07-18,Active
+S0240,Employee S0240,HR,Warehouse Staff,WH05,2023-09-11,Active
+S0241,Employee S0241,Finance,Shipper,WH02,2022-10-16,Active
+S0242,Employee S0242,Finance,Warehouse Staff,WH04,2021-11-27,Inactive
+S0243,Employee S0243,Operations,Shipper,WH03,2022-06-26,Active
+S0244,Employee S0244,Operations,Warehouse Staff,WH05,2023-07-17,Active
+S0245,Employee S0245,Finance,Warehouse Staff,WH04,2023-03-19,Active
+S0246,Employee S0246,HR,Warehouse Staff,WH03,2024-03-28,Active
+S0247,Employee S0247,HR,Shipper,WH05,2023-06-25,Active
+S0248,Employee S0248,Finance,Warehouse Staff,WH03,2021-04-09,Active
+S0249,Employee S0249,Finance,Shipper,WH01,2024-04-14,Active
+S0250,Employee S0250,Tech,Warehouse Staff,WH05,2022-08-19,Active
+S0251,Employee S0251,HR,Warehouse Staff,WH02,2021-04-08,Active
+S0252,Employee S0252,Operations,Shipper,WH01,2021-04-04,Active
+S0253,Employee S0253,Operations,Warehouse Staff,WH05,2022-09-15,Active
+S0254,Employee S0254,Finance,Shipper,WH02,2024-04-10,Active
+S0255,Employee S0255,HR,Shipper,WH01,2023-08-31,Active
+S0256,Employee S0256,HR,Warehouse Staff,WH01,2022-05-14,Inactive
+S0257,Employee S0257,Finance,Warehouse Staff,WH03,2021-10-24,Active
+S0258,Employee S0258,Finance,Warehouse Staff,WH05,2021-04-25,Active
+S0259,Employee S0259,HR,Shipper,WH01,2023-10-07,Inactive
+S0260,Employee S0260,Operations,Warehouse Staff,WH02,2023-12-25,Active
+S0261,Employee S0261,Operations,Shipper,WH05,2021-04-30,Active
+S0262,Employee S0262,HR,Warehouse Staff,WH02,2022-02-08,Active
+S0263,Employee S0263,Tech,Shipper,WH05,2024-08-09,Active
+S0264,Employee S0264,Operations,Warehouse Staff,WH05,2022-09-07,Inactive
+S0265,Employee S0265,Tech,Shipper,WH04,2023-06-14,Inactive
+S0266,Employee S0266,Finance,Shipper,WH01,2021-08-04,Inactive
+S0267,Employee S0267,Finance,Shipper,WH03,2024-11-24,Active
+S0268,Employee S0268,Tech,Warehouse Staff,WH03,2024-10-23,Active
+S0269,Employee S0269,Operations,Shipper,WH02,2022-03-21,Active
+S0270,Employee S0270,HR,Shipper,WH03,2022-04-29,Active
+S0271,Employee S0271,Finance,Shipper,WH04,2023-03-08,Active
+S0272,Employee S0272,Tech,Warehouse Staff,WH05,2024-07-15,Active
+S0273,Employee S0273,Tech,Shipper,WH05,2021-02-24,Active
+S0274,Employee S0274,Tech,Shipper,WH05,2022-03-11,Active
+S0275,Employee S0275,Operations,Shipper,WH01,2021-10-24,Inactive
+S0276,Employee S0276,Finance,Shipper,WH01,2021-11-28,Inactive
+S0277,Employee S0277,Operations,Shipper,WH01,2021-10-11,Inactive
+S0278,Employee S0278,Finance,Shipper,WH05,2024-04-24,Active
+S0279,Employee S0279,Tech,Shipper,WH02,2021-05-16,Active
+S0280,Employee S0280,Operations,Shipper,WH01,2021-08-18,Active
+S0281,Employee S0281,Finance,Warehouse Staff,WH01,2024-07-17,Inactive
+S0282,Employee S0282,HR,Warehouse Staff,WH03,2024-08-16,Active
+S0283,Employee S0283,Operations,Warehouse Staff,WH03,2022-06-19,Active
+S0284,Employee S0284,Finance,Warehouse Staff,WH05,2021-04-10,Active
+S0285,Employee S0285,Operations,Warehouse Staff,WH01,2022-08-13,Active
+S0286,Employee S0286,Finance,Warehouse Staff,WH01,2021-07-21,Active
+S0287,Employee S0287,Operations,Warehouse Staff,WH02,2022-03-20,Active
+S0288,Employee S0288,HR,Warehouse Staff,WH01,2023-12-09,Inactive
+S0289,Employee S0289,Operations,Warehouse Staff,WH02,2023-10-03,Active
+S0290,Employee S0290,Finance,Warehouse Staff,WH05,2024-04-28,Active
+S0291,Employee S0291,HR,Shipper,WH04,2022-08-05,Inactive
+S0292,Employee S0292,Operations,Warehouse Staff,WH05,2024-07-27,Active
+S0293,Employee S0293,Finance,Warehouse Staff,WH01,2024-07-10,Active
+S0294,Employee S0294,Operations,Warehouse Staff,WH01,2023-03-20,Active
+S0295,Employee S0295,Finance,Warehouse Staff,WH05,2022-09-13,Active
+S0296,Employee S0296,HR,Warehouse Staff,WH02,2023-02-16,Active
+S0297,Employee S0297,Operations,Warehouse Staff,WH05,2024-11-12,Active
+S0298,Employee S0298,Tech,Warehouse Staff,WH02,2021-11-15,Active
+S0299,Employee S0299,Finance,Shipper,WH02,2024-11-12,Active
+S0300,Employee S0300,HR,Shipper,WH03,2024-08-09,Active
+S0301,Employee S0301,HR,Shipper,WH02,2024-12-11,Active
+S0302,Employee S0302,Finance,Shipper,WH02,2024-05-19,Active
+S0303,Employee S0303,Finance,Shipper,WH02,2022-01-23,Active
+S0304,Employee S0304,HR,Warehouse Staff,WH02,2021-07-28,Active
+S0305,Employee S0305,Finance,Warehouse Staff,WH03,2022-09-11,Active
+S0306,Employee S0306,Operations,Warehouse Staff,WH02,2024-07-30,Active
+S0307,Employee S0307,Operations,Shipper,WH04,2023-08-09,Active
+S0308,Employee S0308,HR,Warehouse Staff,WH04,2023-06-14,Inactive
+S0309,Employee S0309,Tech,Shipper,WH02,2022-06-11,Active
+S0310,Employee S0310,Tech,Shipper,WH05,2023-05-31,Active
+S0311,Employee S0311,HR,Shipper,WH04,2024-10-23,Active
+S0312,Employee S0312,Operations,Warehouse Staff,WH02,2022-06-17,Active
+S0313,Employee S0313,HR,Warehouse Staff,WH04,2024-12-31,Active
+S0314,Employee S0314,Tech,Shipper,WH03,2021-02-10,Active
+S0315,Employee S0315,Tech,Shipper,WH01,2023-03-08,Active
+S0316,Employee S0316,HR,Shipper,WH05,2022-03-23,Active
+S0317,Employee S0317,Tech,Shipper,WH04,2024-03-22,Active
+S0318,Employee S0318,Finance,Warehouse Staff,WH04,2024-08-02,Active
+S0319,Employee S0319,HR,Shipper,WH04,2023-07-25,Active
+S0320,Employee S0320,Finance,Shipper,WH03,2021-09-08,Active

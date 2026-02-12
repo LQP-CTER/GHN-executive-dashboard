@@ -1,0 +1,351 @@
+Employee,Q1_Score,Q2,Happiness,Survey_Date,Dept
+S0133,3,3,Medium,01/12/2025,HR
+S0238,,3,Low,2025/12/02,Tech
+Employee S0163,,3,,2025/12/02,Ops
+S0164,4,Disagree,,01/12/2025,HR
+S0186,,4,,2025/12/02,HR
+S0091,2,1,High,2025-12-01,HR
+S0175,,4,,2025-12-01,Finance
+Employee S0116,,1,Low,01/12/2025,Ops
+S0108,3,3,Medium,2025/12/02,Finance
+Employee S0075,,1,Medium,2025-12-01,Ops
+S0146,,Agree,Medium,2025/12/02,Tech
+S0040,2,Agree,Medium,2025-12-01,Operations
+Employee S0124,5,Agree,High,2025-12-01,Operations
+Employee S0090,1,3,Medium,2025-12-01,Operations
+Employee S0072,5,Disagree,Low,2025-12-01,Ops
+Employee S0279,3,Agree,High,2025-12-01,Ops
+S0282,5,Agree,Medium,01/12/2025,HR
+S0109,,Agree,High,2025-12-01,Operations
+S0020,,3,Medium,2025/12/02,Ops
+Employee S0102,4,Agree,Low,2025/12/02,Finance
+Employee S0005,5,3,Medium,2025/12/02,Finance
+S0265,4,1,Medium,2025/12/02,Finance
+Employee S0212,4,1,Medium,01/12/2025,Operations
+Employee S0234,5,2,High,2025/12/02,Operations
+S0051,4,4,Medium,2025/12/02,Tech
+S0255,3,Disagree,High,2025-12-01,Tech
+S0094,3,Agree,Medium,2025/12/02,Tech
+S0299,2,Disagree,Medium,2025/12/02,Tech
+Employee S0306,1,3,Low,01/12/2025,HR
+S0206,1,3,High,2025-12-01,HR
+S0274,3,4,High,2025-12-01,Tech
+S0304,1,Agree,Low,2025/12/02,Operations
+Employee S0075,4,2,Low,2025/12/02,Operations
+S0196,,Disagree,High,2025-12-01,Finance
+Employee S0032,2,Disagree,Medium,2025-12-01,HR
+S0295,5,2,High,2025/12/02,Ops
+S0099,4,1,High,2025/12/02,Finance
+S0191,1,5,Medium,2025-12-01,Ops
+S0302,1,Disagree,,2025-12-01,Operations
+S0277,3,Agree,High,2025/12/02,Finance
+S0132,3,5,,2025-12-01,Tech
+Employee S0202,4,2,High,01/12/2025,Tech
+S0295,4,Agree,High,01/12/2025,Ops
+Employee S0103,2,1,Medium,2025-12-01,HR
+S0181,1,1,High,2025-12-01,HR
+S0315,1,5,,2025-12-01,Ops
+S0097,,3,Low,2025-12-01,Ops
+Employee S0043,4,5,,2025-12-01,Tech
+S0179,3,2,Low,2025/12/02,Finance
+S0215,5,1,Medium,2025-12-01,Tech
+S0144,4,3,,2025/12/02,Finance
+Employee S0253,5,3,Medium,2025-12-01,Finance
+Employee S0174,,5,Medium,2025/12/02,HR
+S0215,2,5,Low,2025-12-01,Finance
+S0172,4,5,Low,2025/12/02,Ops
+Employee S0282,5,4,High,2025-12-01,Operations
+S0195,4,3,High,2025/12/02,HR
+S0117,2,Agree,Low,2025-12-01,Tech
+Employee S0299,4,3,High,2025/12/02,HR
+S0209,3,2,Low,2025/12/02,Operations
+S0118,4,3,,2025-12-01,Finance
+S0116,,4,High,01/12/2025,Tech
+S0208,1,1,Low,2025/12/02,Tech
+S0086,1,4,Medium,01/12/2025,Finance
+S0188,2,Disagree,Low,01/12/2025,HR
+S0307,1,2,High,01/12/2025,HR
+Employee S0053,5,Disagree,Medium,2025-12-01,Finance
+Employee S0216,1,4,Medium,01/12/2025,Tech
+Employee S0299,3,2,High,2025/12/02,Finance
+S0013,4,2,Low,2025-12-01,HR
+S0239,5,Disagree,Medium,2025/12/02,Ops
+S0162,1,1,,2025-12-01,Operations
+S0317,4,1,High,2025/12/02,HR
+S0100,5,4,Low,01/12/2025,Ops
+S0141,1,5,High,2025/12/02,Tech
+Employee S0311,1,5,Low,2025-12-01,Operations
+S0041,3,4,,2025-12-01,Ops
+Employee S0287,4,3,Low,01/12/2025,Tech
+S0282,4,Agree,,2025-12-01,HR
+S0173,4,3,Medium,2025-12-01,Ops
+S0090,2,3,,2025-12-01,HR
+S0072,2,4,Low,2025/12/02,Finance
+Employee S0271,5,3,High,2025-12-01,Tech
+S0048,4,1,Medium,2025-12-01,Ops
+S0128,5,2,Medium,2025/12/02,Finance
+S0002,4,5,High,01/12/2025,Tech
+Employee S0261,2,Disagree,Medium,2025/12/02,Finance
+Employee S0060,1,3,Low,01/12/2025,Finance
+S0029,,1,Low,2025/12/02,Tech
+S0017,3,5,Low,01/12/2025,HR
+S0008,5,Agree,,01/12/2025,HR
+S0147,5,Agree,,2025-12-01,HR
+S0118,,2,,2025-12-01,HR
+S0198,1,3,Medium,2025/12/02,Finance
+Employee S0163,2,Agree,Low,2025/12/02,Operations
+Employee S0090,2,3,Low,2025/12/02,HR
+Employee S0266,3,5,High,01/12/2025,Finance
+S0276,4,3,High,2025-12-01,Finance
+Employee S0315,2,4,,2025/12/02,Finance
+Employee S0191,4,Agree,Medium,2025/12/02,HR
+Employee S0028,4,5,Low,01/12/2025,HR
+S0037,3,5,Medium,01/12/2025,Operations
+Employee S0188,2,5,,01/12/2025,Tech
+S0271,1,Agree,High,2025-12-01,Ops
+Employee S0224,2,2,,2025-12-01,HR
+S0238,,1,,2025/12/02,Operations
+S0242,1,3,Medium,2025-12-01,Operations
+S0022,1,Agree,Low,2025-12-01,Ops
+S0154,3,3,High,01/12/2025,Ops
+Employee S0318,5,3,Medium,01/12/2025,HR
+Employee S0114,,4,,01/12/2025,HR
+S0078,4,2,High,01/12/2025,HR
+S0217,3,Disagree,Low,2025/12/02,Operations
+S0273,2,1,Low,2025/12/02,HR
+S0182,2,1,Low,01/12/2025,HR
+S0009,1,Agree,Low,01/12/2025,Ops
+S0080,,4,Medium,01/12/2025,Finance
+S0161,4,Agree,,01/12/2025,Tech
+S0108,,Disagree,,2025-12-01,Ops
+S0196,4,5,High,2025/12/02,HR
+Employee S0266,5,2,Low,2025/12/02,Finance
+S0023,4,5,High,2025-12-01,Tech
+S0080,2,5,,01/12/2025,Tech
+S0187,4,4,,2025/12/02,Operations
+Employee S0091,1,4,Low,01/12/2025,Tech
+S0100,4,5,High,01/12/2025,Operations
+Employee S0003,1,5,High,2025/12/02,Operations
+S0198,4,4,,2025/12/02,Operations
+S0186,3,3,Low,2025-12-01,Finance
+S0105,1,2,High,2025/12/02,Tech
+Employee S0285,2,Disagree,,01/12/2025,Operations
+Employee S0129,5,Agree,,2025/12/02,Operations
+S0002,,5,Low,2025-12-01,Ops
+Employee S0278,,3,Low,2025/12/02,Operations
+Employee S0193,5,Disagree,High,2025/12/02,Tech
+S0213,5,Agree,,2025-12-01,Tech
+S0215,4,3,Medium,01/12/2025,Tech
+Employee S0090,5,2,,2025/12/02,Operations
+S0246,3,2,Low,2025-12-01,Ops
+Employee S0055,3,5,Medium,01/12/2025,HR
+S0033,,3,Low,2025/12/02,Tech
+Employee S0077,4,5,,2025/12/02,Ops
+S0069,3,Agree,Low,2025-12-01,HR
+S0080,2,4,,2025/12/02,Ops
+S0045,1,Disagree,,2025/12/02,HR
+S0262,4,4,Low,01/12/2025,Tech
+S0274,3,3,,01/12/2025,Operations
+S0043,,2,,2025-12-01,HR
+S0057,2,1,,2025/12/02,Operations
+S0123,,Disagree,Medium,01/12/2025,Operations
+Employee S0287,3,Disagree,Low,01/12/2025,Finance
+S0104,,4,High,01/12/2025,Tech
+S0101,,3,,2025/12/02,Ops
+S0097,5,4,,2025/12/02,HR
+Employee S0254,5,Agree,High,2025/12/02,Operations
+S0253,1,5,High,2025-12-01,Tech
+S0051,4,Disagree,,01/12/2025,Ops
+Employee S0313,5,Disagree,High,01/12/2025,Ops
+S0130,1,5,High,2025-12-01,Operations
+S0230,1,Disagree,High,2025/12/02,Tech
+S0060,5,Agree,High,2025-12-01,HR
+S0084,4,2,High,2025-12-01,Operations
+S0090,3,4,Low,01/12/2025,Tech
+S0007,3,3,High,2025-12-01,Ops
+S0078,2,4,Medium,2025-12-01,Tech
+S0166,1,2,,2025-12-01,Tech
+S0284,3,Disagree,,2025-12-01,Tech
+S0251,4,1,Low,2025-12-01,Ops
+Employee S0131,2,2,Low,2025-12-01,HR
+S0118,4,5,High,2025/12/02,HR
+Employee S0146,2,4,Low,2025/12/02,Ops
+Employee S0152,2,5,High,01/12/2025,HR
+Employee S0220,3,5,Low,2025-12-01,Finance
+S0285,,4,High,2025/12/02,Finance
+Employee S0090,1,4,High,01/12/2025,Tech
+Employee S0055,4,4,Medium,2025/12/02,Finance
+Employee S0011,4,5,Low,2025/12/02,HR
+Employee S0024,,3,High,2025/12/02,Operations
+Employee S0143,,Agree,High,01/12/2025,Operations
+Employee S0047,5,3,,01/12/2025,Tech
+S0258,1,3,,2025/12/02,HR
+S0104,5,Disagree,High,2025-12-01,Ops
+Employee S0218,,3,Medium,01/12/2025,Ops
+S0205,,1,,2025/12/02,Tech
+S0060,5,1,High,2025/12/02,Ops
+Employee S0185,4,Agree,High,2025-12-01,Operations
+S0148,5,4,High,2025/12/02,HR
+S0210,3,1,Medium,2025/12/02,Finance
+S0073,5,1,Low,2025/12/02,Ops
+S0110,,1,Medium,2025/12/02,Tech
+Employee S0101,,5,,2025/12/02,Operations
+S0318,5,Agree,Medium,01/12/2025,Finance
+S0028,5,5,,2025-12-01,Ops
+S0318,4,Agree,Low,01/12/2025,Finance
+Employee S0253,1,Disagree,,01/12/2025,Operations
+Employee S0163,3,3,Low,2025/12/02,Tech
+Employee S0260,3,Agree,High,2025/12/02,Operations
+Employee S0250,1,5,High,01/12/2025,Finance
+S0096,5,3,High,2025-12-01,HR
+S0038,,3,Low,2025/12/02,Ops
+S0093,3,2,Medium,01/12/2025,Tech
+S0013,5,4,High,2025/12/02,Ops
+S0307,4,Disagree,,01/12/2025,Operations
+Employee S0289,5,1,Medium,2025/12/02,Operations
+S0137,3,Agree,High,2025/12/02,HR
+S0133,5,3,,2025-12-01,Operations
+S0111,2,2,Medium,01/12/2025,Ops
+S0025,5,4,,2025/12/02,Tech
+S0044,1,Disagree,Medium,2025/12/02,HR
+Employee S0070,2,4,Low,2025/12/02,Finance
+S0042,2,4,Low,01/12/2025,Finance
+S0143,5,5,Low,2025-12-01,HR
+S0306,5,1,,2025/12/02,Finance
+S0316,,4,,2025-12-01,Tech
+S0045,3,3,Medium,2025-12-01,Ops
+Employee S0208,1,2,,2025-12-01,Tech
+Employee S0028,5,3,Medium,01/12/2025,Finance
+Employee S0207,5,Agree,Medium,01/12/2025,HR
+S0225,2,Disagree,,01/12/2025,Tech
+Employee S0094,3,5,High,2025-12-01,Finance
+S0241,3,1,Medium,2025/12/02,Operations
+Employee S0034,2,1,Medium,01/12/2025,Operations
+S0164,3,2,High,2025/12/02,HR
+S0200,5,Agree,Medium,01/12/2025,Operations
+Employee S0205,,Agree,,2025/12/02,Finance
+S0057,,3,,2025/12/02,Ops
+S0153,4,3,,2025/12/02,Finance
+S0219,1,3,Medium,01/12/2025,Finance
+S0251,1,2,High,2025/12/02,Finance
+Employee S0236,5,5,High,01/12/2025,Finance
+S0291,1,1,Medium,2025-12-01,Ops
+S0298,5,4,,01/12/2025,Finance
+S0088,,Disagree,High,2025-12-01,Finance
+S0055,1,3,High,01/12/2025,Finance
+Employee S0177,5,1,Low,2025/12/02,HR
+S0035,,Disagree,High,01/12/2025,HR
+Employee S0036,2,Disagree,Low,01/12/2025,Finance
+Employee S0053,,2,High,2025-12-01,Finance
+Employee S0167,5,3,Low,2025/12/02,Tech
+S0210,3,2,,01/12/2025,Operations
+S0239,5,Disagree,Low,2025/12/02,Operations
+S0220,3,Disagree,Low,2025/12/02,Operations
+S0291,2,5,High,2025/12/02,Operations
+S0115,5,2,Medium,2025-12-01,Ops
+S0156,2,5,Low,01/12/2025,Tech
+S0063,,1,,01/12/2025,Ops
+S0209,4,5,Low,2025-12-01,HR
+S0106,5,Agree,,01/12/2025,Operations
+S0011,3,4,Low,01/12/2025,Tech
+S0207,1,2,High,01/12/2025,Finance
+S0240,3,1,High,2025/12/02,Ops
+S0246,1,4,Low,2025/12/02,Finance
+S0031,2,Agree,Low,2025/12/02,Operations
+Employee S0221,3,Agree,High,01/12/2025,HR
+Employee S0120,1,Agree,Low,01/12/2025,Finance
+S0086,1,Agree,High,01/12/2025,Tech
+S0265,1,5,High,01/12/2025,HR
+S0254,5,2,High,01/12/2025,Ops
+Employee S0006,4,Disagree,,2025-12-01,Tech
+S0237,5,4,Low,2025-12-01,Ops
+Employee S0093,5,1,Low,2025/12/02,Ops
+S0259,,3,Medium,2025/12/02,Tech
+Employee S0194,1,Agree,Medium,01/12/2025,Finance
+S0060,,Disagree,Medium,2025/12/02,HR
+S0171,2,2,Low,2025-12-01,Tech
+Employee S0225,4,1,Medium,2025/12/02,Ops
+Employee S0069,1,5,High,2025-12-01,HR
+S0281,1,Disagree,,2025/12/02,Tech
+Employee S0125,1,4,High,01/12/2025,HR
+Employee S0193,,3,,2025/12/02,Operations
+Employee S0253,4,Disagree,Low,01/12/2025,Finance
+Employee S0109,4,Disagree,Medium,01/12/2025,HR
+S0261,4,2,Low,2025/12/02,HR
+Employee S0151,1,Agree,,2025/12/02,Tech
+S0271,,3,,2025-12-01,Ops
+S0202,3,3,Medium,2025/12/02,Finance
+S0057,3,2,Medium,2025/12/02,Finance
+S0265,2,3,,2025-12-01,HR
+S0268,,Agree,Low,2025-12-01,HR
+Employee S0216,,5,,2025/12/02,Tech
+S0296,4,2,Medium,01/12/2025,HR
+Employee S0229,1,4,,2025/12/02,Finance
+S0102,1,5,Medium,2025/12/02,Tech
+S0021,4,5,,01/12/2025,Operations
+S0209,5,4,Low,2025-12-01,Finance
+S0265,,3,Low,2025/12/02,Tech
+S0253,2,4,,2025/12/02,Tech
+Employee S0268,5,Agree,Medium,2025-12-01,HR
+Employee S0145,5,Disagree,High,2025-12-01,Operations
+S0269,3,3,Medium,2025/12/02,Tech
+S0092,2,2,Low,01/12/2025,Ops
+S0152,3,Agree,Medium,2025-12-01,Finance
+Employee S0312,3,2,Medium,2025-12-01,Ops
+S0284,5,Agree,,2025-12-01,Operations
+S0108,4,1,Medium,2025/12/02,HR
+Employee S0223,2,5,Low,01/12/2025,Operations
+Employee S0273,4,4,Medium,01/12/2025,Operations
+S0015,1,4,Medium,01/12/2025,Finance
+S0133,4,2,Medium,2025-12-01,Ops
+S0166,3,4,Low,01/12/2025,Tech
+Employee S0114,4,Disagree,Low,01/12/2025,Operations
+Employee S0099,2,4,Low,2025-12-01,Ops
+S0113,4,4,High,2025-12-01,Operations
+S0095,2,Disagree,,01/12/2025,Ops
+S0105,3,Agree,,01/12/2025,Ops
+Employee S0289,3,4,Medium,2025-12-01,Finance
+S0222,1,Disagree,Medium,01/12/2025,Operations
+Employee S0126,5,4,Medium,2025-12-01,Operations
+S0281,4,Agree,,01/12/2025,Ops
+Employee S0087,2,3,Low,2025-12-01,Operations
+Employee S0217,3,3,Medium,2025/12/02,Ops
+S0264,5,1,Medium,01/12/2025,HR
+Employee S0130,4,Disagree,Low,01/12/2025,Operations
+S0251,3,Agree,High,2025-12-01,Tech
+Employee S0203,2,Agree,,2025-12-01,HR
+S0313,2,4,High,01/12/2025,Tech
+S0049,1,1,,01/12/2025,Operations
+S0280,,3,Low,2025/12/02,Finance
+Employee S0060,5,5,,01/12/2025,Tech
+S0157,2,5,,2025-12-01,Finance
+S0299,3,3,High,2025/12/02,Finance
+S0317,2,5,High,01/12/2025,Tech
+S0098,2,5,Low,2025-12-01,HR
+S0267,2,4,High,01/12/2025,Operations
+S0127,,4,Medium,2025-12-01,Ops
+S0177,3,Agree,,2025/12/02,Finance
+Employee S0184,,5,Low,01/12/2025,Finance
+S0131,1,2,,2025/12/02,Ops
+S0187,1,5,Low,2025/12/02,Tech
+S0028,1,1,High,01/12/2025,HR
+Employee S0259,2,Agree,,01/12/2025,Ops
+S0159,4,1,High,2025-12-01,Tech
+S0230,3,3,Medium,2025/12/02,Ops
+Employee S0141,5,2,,01/12/2025,Tech
+S0176,4,3,,01/12/2025,Operations
+Employee S0191,3,3,Medium,2025-12-01,Tech
+Employee S0222,1,5,High,2025/12/02,Finance
+S0148,3,5,,2025/12/02,HR
+S0150,,3,Low,2025/12/02,Ops
+Employee S0174,3,Agree,Medium,2025/12/02,Finance
+S0162,3,5,High,2025-12-01,Tech
+S0283,2,5,,2025-12-01,Operations
+Employee S0241,1,5,,2025-12-01,Finance
+S0235,1,4,Low,2025-12-01,Tech
+S0114,1,2,Medium,01/12/2025,Finance
+Employee S0279,3,3,High,01/12/2025,Ops
+Employee S0266,3,3,,2025-12-01,Tech
+Employee S0213,,3,Low,2025/12/02,Finance
+S0098,,4,Low,01/12/2025,Operations
+Employee S0265,5,1,Medium,01/12/2025,HR
