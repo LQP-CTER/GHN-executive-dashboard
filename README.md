@@ -1,62 +1,86 @@
-GHN Executive Dashboard & AI Predictive Analytics
+<div align="center">
 
-Tech Stack: Python | Streamlit | Machine Learning (Random Forest) | Plotly
+# GHN EXECUTIVE DASHBOARD & AI PREDICTIVE ANALYTICS
 
-Project Overview
+**Tech Stack:** Python | Streamlit | Machine Learning (Random Forest) | Plotly
 
-The GHN Executive Dashboard is an interactive web application designed specifically for the Operations and HR Executive Board.
+---
 
-Unlike traditional static reports, this system not only provides a holistic view of operational performance (Descriptive Analytics) but also integrates Machine Learning models to forecast employee turnover risks (Predictive Analytics), thereby enabling the business to make timely interventions.
+🔗 **[Live Demo](https://ghn-executive-dashboard.streamlit.app/)**
 
-🔗 Direct Access Link: [[GHN-executive-dashboard.streamlit.app](https://ghn-executive-dashboard.streamlit.app/)]
+</div>
 
-Key Features
+---
 
-IBCS Standard Interface: Minimalist design adhering to International Business Communication Standards. Strict color coding rules (Grey for actuals, Red for risks, Green for positive variance) help viewers focus 100% on the data.
+## Project Overview
 
-Machine Learning Integration: Applies the Random Forest Classifier algorithm to evaluate "Turnover Drivers" and provides a "Flight Risk Radar" for all active personnel.
+The **GHN Executive Dashboard** is an interactive web application designed specifically for the Operations and HR Executive Board.
 
-Multi-language (I18N): Supports seamless switching between Vietnamese and English (VN/EN) directly on the sidebar.
+Unlike traditional static reports, this system not only provides a holistic view of operational performance (Descriptive Analytics) but also integrates **Machine Learning models** to forecast employee turnover risks (Predictive Analytics), thereby enabling the business to make timely interventions.
 
-Logistics Industry Insights: Simulates and analyzes specific delivery industry metrics such as: Delivery Route Type (Urban Apartments vs. Suburban), Shipper Classification (Hybrid vs. Dedicated), and Warehouse Health Matrix.
+---
 
-Dashboard Architecture
+## Key Features
 
-The system is divided into 5 main modules:
+- **IBCS Standard Interface**: Minimalist design adhering to International Business Communication Standards. Strict color coding rules (Grey for actuals, Red for risks, Green for positive variance) help viewers focus 100% on the data.
 
-Executive: Core KPI cards (SLA, On-time Rate, Turnover Rate, Happiness Score) and overall trends.
+- **Machine Learning Integration**: Applies the Random Forest Classifier algorithm to evaluate "Turnover Drivers" and provides a "Flight Risk Radar" for all active personnel.
 
-Operations: Deep dive into the causes of late arrivals, overwork risks, and the Warehouse/Hub performance warning matrix.
+- **Multi-language (I18N)**: Supports seamless switching between Vietnamese and English (VN/EN) directly on the sidebar.
 
-HR & Attrition: Correlation analysis between tenure, work environment, and turnover rate.
+- **Logistics Industry Insights**: Simulates and analyzes specific delivery industry metrics such as:
+  - Delivery Route Type (Urban Apartments vs. Suburban)
+  - Shipper Classification (Hybrid vs. Dedicated)
+  - Warehouse Health Matrix
 
-Data Quality: Transparency check comparing Raw data with Standardized data.
+---
 
-ML Predict: Feature Importance charts and a list of high-risk employees requiring urgent 1-on-1 meetings for retention.
+## Dashboard Architecture
 
-Local Setup
+The system is divided into **5 main modules**:
 
-Step 1: Clone the repository
+1. **Executive**: Core KPI cards (SLA, On-time Rate, Turnover Rate, Happiness Score) and overall trends.
 
-git clone [https://github.com/LQP-CTER/GHN-executive-dashboard.git](https://github.com/LQP-CTER/GHN-executive-dashboard.git)
+2. **Operations**: Deep dive into the causes of late arrivals, overwork risks, and the Warehouse/Hub performance warning matrix.
+
+3. **HR & Attrition**: Correlation analysis between tenure, work environment, and turnover rate.
+
+4. **Data Quality**: Transparency check comparing Raw data with Standardized data.
+
+5. **ML Predict**: Feature Importance charts and a list of high-risk employees requiring urgent 1-on-1 meetings for retention.
+
+---
+
+## Local Setup
+
+### Step 1: Clone the repository
+
+```bash
+git clone https://github.com/LQP-CTER/GHN-executive-dashboard.git
 cd GHN-executive-dashboard
+```
 
+### Step 2: Install required libraries
 
-Step 2: Install required libraries
-(It is recommended to create a virtual environment venv before installation)
+*(It is recommended to create a virtual environment `venv` before installation)*
 
+```bash
 pip install -r requirements.txt
+```
 
+### Step 3: Run the application
 
-Step 3: Run the application
-
+```bash
 streamlit run app.py
+```
 
+The application will automatically open in your browser at `http://localhost:8501`.
 
-The application will automatically open in your browser at http://localhost:8501.
+---
 
-Folder Structure
+## Folder Structure
 
+```
 GHN-executive-dashboard/
 │
 ├── app.py                      # Main Streamlit Dashboard code
@@ -67,6 +91,15 @@ GHN-executive-dashboard/
 ├── employee_logs.csv           # Historical check-in/check-out logs
 ├── engagement_survey_raw.csv   # Raw employee satisfaction survey data
 └── staff_info.csv              # Employee list and demographics
+```
 
+---
 
-Developed by [Le Quy Phat] - Operations Data Analyst Candidate.
+<div align="center">
+
+**Developed by Le Quy Phat**  
+*Operations Data Analyst Candidate*
+
+[GitHub](https://github.com/LQP-CTER) • [Email](mailto:Lequyphat0123@gmail.com) • [Portfolio](https://lequyphat.wuaze.com/)
+
+</div>
