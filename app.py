@@ -985,12 +985,18 @@ with tab2:
         ws['SLA']      = ws['SLA'] * 100
         wd = ws[['Warehouse_ID','SLA','Return','Turnover']].copy()
         wd.columns = ['Kho','SLA Giao hàng (%)','Hoàn hàng (%)','Nghỉ việc (%)']
+        
+        # Using Streamlit's native column_config to format without matplotlib dependency
         st.dataframe(
-            wd.style
-              .background_gradient(subset=['Nghỉ việc (%)'], cmap="Reds")
-              .background_gradient(subset=['Hoàn hàng (%)'],  cmap="Oranges")
-              .format({'SLA Giao hàng (%)':'{:.1f}%','Hoàn hàng (%)':'{:.1f}%','Nghỉ việc (%)':'{:.1f}%'}),
-            use_container_width=True, height=280
+            wd,
+            column_config={
+                "SLA Giao hàng (%)": st.column_config.NumberColumn(format="%.1f%%"),
+                "Hoàn hàng (%)": st.column_config.NumberColumn(format="%.1f%%"),
+                "Nghỉ việc (%)": st.column_config.NumberColumn(format="%.1f%%"),
+            },
+            use_container_width=True, 
+            height=280, 
+            hide_index=True
         )
         st.markdown("</div>", unsafe_allow_html=True)
 
