@@ -10,8 +10,8 @@ from sklearn.ensemble import RandomForestClassifier
 # PAGE CONFIG
 # ══════════════════════════════════════════════════════════════════════════════
 st.set_page_config(
-    page_title="GHN Executive Dashboard",
-    page_icon="📦",
+    page_title="HR & Ops Analytics Dashboard",
+    page_icon="📊",
     layout="wide",
     initial_sidebar_state="expanded"
 )
@@ -26,7 +26,7 @@ C_MID_GREY   = "#8A8A8A"   # Reference / previous
 C_LIGHT_GREY = "#D8D8D8"   # Grid lines, borders
 C_BG         = "#F7F7F7"   # Page background
 C_WHITE      = "#FFFFFF"   # Card background
-C_ACCENT     = "#D0410A"   # GHN brand red-orange — use max 1× per chart
+C_ACCENT     = "#D0410A"   # Primary accent color — use max 1× per chart
 C_WARN       = "#B54A00"   # Negative variance / alert (same family, darker)
 C_GOOD       = "#2D6A2D"   # Positive variance / on-target
 
@@ -109,7 +109,7 @@ TRANSLATIONS = {
         'c6_sub': "Tương quan Giờ làm TB và Số lần Đi muộn / nhân sự",
         'c13_title': "Shipper Kiêm nhiệm chịu áp lực vận hành cao nhất",
         'c13_sub': "Giờ làm TB theo Loại hình Driver (Mô phỏng)",
-        'c14_title': "Ma trận Sức khỏe Bưu cục",
+        'c14_title': "Ma trận Sức khỏe Kho / Bưu cục",
         'c14_sub': "SLA · Hoàn hàng · Nghỉ việc theo từng Kho (Mô phỏng)",
         'c9_title': "Ops có Chỉ số Hạnh phúc thấp nhất",
         'c9_sub': "Hạnh phúc TB (thang 5) theo Phòng ban",
@@ -634,8 +634,8 @@ with st.sidebar:
     <div class="sidebar-brand">
         <span class="brand-dot">●</span>
         <div>
-            GHN ANALYTICS
-            <div class="brand-sub">Operations Intelligence</div>
+            OPS ANALYTICS
+            <div class="brand-sub">Operations & HR Intelligence</div>
         </div>
     </div>
     """, unsafe_allow_html=True)
@@ -705,7 +705,7 @@ st.markdown(f"""
 <div class="report-header">
     <div>
         <div class="report-title">
-            <span class="accent">GHN</span> Executive Dashboard — Management Report
+            <span class="accent">Enterprise</span> Executive Dashboard — Management Report
         </div>
         <div class="report-subtitle">{_('app_sub')}</div>
     </div>
@@ -1142,7 +1142,7 @@ with tab5:
 
             # Build IBCS HTML table
             rows = ""
-            for idx, r in hd.iterrows(): # Lỗi ở đây: đã đổi _ thành idx
+            for idx, r in hd.iterrows():
                 risk_color = C_ACCENT if r['Flight Risk (%)'] > 60 else C_DARK_GREY
                 bar_w = int(r['Flight Risk (%)'] * 0.6)
                 rows += f"""<tr>
