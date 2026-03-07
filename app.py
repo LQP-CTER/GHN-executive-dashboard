@@ -224,8 +224,8 @@ section[data-testid="stSidebar"] {{
 }}
 section[data-testid="stSidebar"] .block-container {{ padding: 0 1.25rem 1.5rem 1.25rem !important; }}
 section[data-testid="stSidebar"] label,
-section[data-testid="stSidebar"] span,
-section[data-testid="stSidebar"] p {{
+section[data-testid="stSidebar"] p,
+section[data-testid="stSidebar"] span:not(.material-symbols-rounded):not(.material-icons) {{
     color: {C_BLACK} !important;
     font-family: 'DM Sans', sans-serif !important;
 }}
@@ -642,7 +642,7 @@ with st.sidebar:
 
     # Language pill toggle
     st.markdown('<span class="sidebar-label">Language</span>', unsafe_allow_html=True)
-    lang_opts   = {"🇻🇳 Tiếng Việt": "VN", "🇺🇸 English": "EN"}
+    lang_opts   = {"Tiếng Việt": "VN", "English": "EN"}
     lang_labels = list(lang_opts.keys())
     cur_label   = lang_labels[0] if st.session_state.lang == 'VN' else lang_labels[1]
     sel         = st.radio("lang", lang_labels, index=lang_labels.index(cur_label),
