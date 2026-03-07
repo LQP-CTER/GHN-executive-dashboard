@@ -929,13 +929,26 @@ with tab2:
     with b2:
         st.markdown(card_open(_('c6_title'), _('c6_sub')), unsafe_allow_html=True)
         sc_df = al.groupby('Staff_ID').agg({'Work_Hours':'mean','Is_Late':'sum'}).reset_index()
-        fig6  = px.scatter(sc_df, x='Work_Hours', y='Is_Late', trendline="ols",
+        
+        fig6  = px.scatter(sc_df, x='Work_Hours', y='Is_Late',
                            color_discrete_sequence=[C_BLACK], opacity=0.25)
-        for tr in fig6.data:
-            if hasattr(tr, 'line'):
-                tr.line.color  = C_ACCENT
-                tr.line.width  = 2
-                tr.marker.size = 0 if hasattr(tr,'mode') and tr.mode=='lines' else 6
+        
+        # Update marker size for scatter
+        if len(fig6.data) > 0:
+            fig6.data[0].marker.size = 6
+
+        # Manually calculate and add OLS trendline using numpy (avoids statsmodels dependency)
+        valid_data = sc_df.dropna(subset=['Work_Hours', 'Is_Late'])
+        if len(valid_data) > 1:
+            z = np.polyfit(valid_data['Work_Hours'], valid_data['Is_Late'], 1)
+            p = np.poly1d(z)
+            x_trend = np.array([valid_data['Work_Hours'].min(), valid_data['Work_Hours'].max()])
+            y_trend = p(x_trend)
+            fig6.add_trace(go.Scatter(
+                x=x_trend, y=y_trend, mode='lines', 
+                line=dict(color=C_ACCENT, width=2), showlegend=False, hoverinfo='skip'
+            ))
+
         fig6.update_xaxes(title_text=_('x_workhr'))
         fig6.update_yaxes(title_text=_('y_late'))
         apply_ibcs(fig6, height=320)
